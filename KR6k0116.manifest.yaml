@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0116_000.yaml, hash: 'sha256:e7a82152f1f763a556079c3205ed4f5c9de233b19e9a9e6e5d2dcf6190429116'}
-  - {seq: 1, filename: KR6k0116_001.yaml, hash: 'sha256:b5a176dd0fb26537d7a083d491704424f80848baf525e74b706bd9dd20f3a956'}
+  - {seq: 1, filename: KR6k0116_001.yaml, hash: 'sha256:568e34c2cd58021dbc19088c66e13218040403ce88005df026aa6d73142811c1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0116_001.markers.yaml, hash: 'sha256:4cc17f385c7899ccadb3ae95dbc4e802a4c428d703fdd12f16bd5a40fa938bad'}
+  - {seq: 0, role: markers, filename: assets/KR6k0116_000.markers.yaml, hash: 'sha256:49b0927b4c9069414ab2860f674d8c9b0bb095239ef3f5df0079b62d49345bfd'}
+  - {seq: 1, role: markers, filename: assets/KR6k0116_001.markers.yaml, hash: 'sha256:775271f56c07203c4ef9e0646dfb26050ab95295949c94bf17ba3eef2a4f4b3e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 佛說淨業障經
   type: juan
   level: 1
-hash: sha256:3a08f630f0492ddd3b1477e5ba7ea65bb5faf2aeda3bc88a09d5316ba57c1012
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fb8d264184d51dbc69a2270804359d0448340dbcf80d99edee118310d93546c0
