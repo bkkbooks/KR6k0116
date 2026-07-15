@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0116/v1
 canonical_location: https://kanripo.org/bkk/KR6k0116/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說淨業障經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0116_000.yaml, hash: 'sha256:e7a82152f1f763a556079c3205ed4f5c9de233b19e9a9e6e5d2dcf6190429116'}
-  - {seq: 1, filename: KR6k0116_001.yaml, hash: 'sha256:568e34c2cd58021dbc19088c66e13218040403ce88005df026aa6d73142811c1'}
+  - {seq: 1, filename: KR6k0116_001.yaml, hash: 'sha256:9e8233322832b9282e3d355ffb1f49d2b2eb0dfd16c9fc9cc20e35bc13d856d1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0116_000.markers.yaml, hash: 'sha256:49b0927b4c9069414ab2860f674d8c9b0bb095239ef3f5df0079b62d49345bfd'}
-  - {seq: 1, role: markers, filename: assets/KR6k0116_001.markers.yaml, hash: 'sha256:775271f56c07203c4ef9e0646dfb26050ab95295949c94bf17ba3eef2a4f4b3e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0116_001.markers.yaml, hash: 'sha256:ccd8ec9fc44109b294328d5b1eda21b0cb1f67c0277345f82cbe0d9aa4787277'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 佛說淨業障經
   type: juan
   level: 1
-hash: sha256:fb8d264184d51dbc69a2270804359d0448340dbcf80d99edee118310d93546c0
+hash: sha256:5f116f606a39d0adf7dea853d7853b9d55a61e9646eb5fb227d7a3db68696a6d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
